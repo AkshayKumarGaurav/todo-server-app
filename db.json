@@ -19,7 +19,7 @@
       "duration": "3 Hours",
       "color": "#FFD6A5"
     }
-    // ... additional courses
+   
   ],
   "articleReads": [
     {
@@ -34,7 +34,7 @@
       "duration": "20 min",
       "color": "#CAFFBF"
     }
-    // ... additional articles
+    
   ],
   "tweetShorts": [
     {
@@ -51,6 +51,6 @@
       "duration": "7 min",
       "color": "#A0C4FF"
     }
-    // ... additional tweets
+   
   ]
 }
