@@ -1,7 +1,56 @@
 {
-    "tasks": [
-      { "id": 1, "title": "Sample Task", "description": "Description", "completed": false, "archived": false },
-      { "id": 2, "title": "Another Task", "description": "Another Description", "completed": true, "archived": false }
-    ]
-  }
-  
+  "userInfo": {
+    "name": "Anirudh",
+    "greeting": "Hey Anirudh 👋",
+    "message": "It's a nice day to learn something new"
+  },
+  "courses": [
+    {
+      "id": "course_1",
+      "title": "Fundamentals of Product Design",
+      "chapters": 8,
+      "duration": "2 Hours",
+      "color": "#FFADAD"
+    },
+    {
+      "id": "course_2",
+      "title": "Advanced Product Strategy",
+      "chapters": 10,
+      "duration": "3 Hours",
+      "color": "#FFD6A5"
+    }
+    // ... additional courses
+  ],
+  "articleReads": [
+    {
+      "id": "article_1",
+      "title": "The Future of Product Design",
+      "duration": "15 min",
+      "color": "#FDFFB6"
+    },
+    {
+      "id": "article_2",
+      "title": "Understanding User Needs",
+      "duration": "20 min",
+      "color": "#CAFFBF"
+    }
+    // ... additional articles
+  ],
+  "tweetShorts": [
+    {
+      "id": "tweet_1",
+      "author": "Shreyas Doshi",
+      "title": "Product Management 101",
+      "duration": "5 min",
+      "color": "#9BF6FF"
+    },
+    {
+      "id": "tweet_2",
+      "author": "Julie Zhuo",
+      "title": "Design for Scale",
+      "duration": "7 min",
+      "color": "#A0C4FF"
+    }
+    // ... additional tweets
+  ]
+}
